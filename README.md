@@ -1,7 +1,7 @@
 # Prey Predator Simulations
 
 ## ODE Model
-Under ODE.ipynb in the Simulation folder can be used to get the graph of the ODE model for a configurable starting point. In the notebook the parameters alpha, beta, gamma and delta as well as the initial starting populations x0 for the prey and y0 for the predator can be set. 
+The ODE.ipynb in the Simulation folder can be used to get the graph of the ODE model for a configurable starting point. In the notebook the parameters alpha, beta, gamma and delta as well as the initial starting populations x0 for the prey and y0 for the predator can be set. 
 
 ## CA Models
 All of the following notebooks can be found in the Simulations folder.
